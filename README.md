@@ -3,7 +3,7 @@ Repositório oficial da disciplina de Inteligência Artificial contendo os noteb
 
 ## 📁 Arquivos do Repositório
 
-- Exercícios_Python_[Jonathan_Simões_de_Andrade].ipynb: Exercícios práticos e fundamentos em Python desenvolvidos na disciplina.
+- Exercícios_Python_[Jonathan_Simões_de_Andrade_Pires][6ºB][Noturno].ipynb: Exercícios práticos e fundamentos em Python desenvolvidos na disciplina.
 
 ## 🛠️ Tecnologias Utilizadas
 
