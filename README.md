@@ -7,7 +7,7 @@ Repositório oficial da disciplina de **Inteligência Artificial**, contendo os 
 - `Exercícios_Python_[Jonathan_Simões_de_Andrade_Pires][6ºB][Noturno].ipynb`
   - Exercícios práticos e fundamentos em Python desenvolvidos na disciplina.
 
-- `Exercícios_NumPy_SciPy_Pandas_Matplotlib_[Jonathan_Simões_de_Andrade_Pires][6ºB][Noturno].ipynb`
+- `Atividade_Data_Science_NumPy_SciPy_Pandas_Matplotlib_[Jonathan_Simões_de_Andrade_Pires][6ºB][Noturno].ipynb`
   - Exercícios práticos envolvendo manipulação de arrays, computação científica, análise de dados e visualização.
 
 ## 📚 Conteúdos
